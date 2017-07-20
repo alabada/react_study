@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ed20f0c-0ebc-4870-8a72-fc70ce744718" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-redux-demo/src/react-redux.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-redux-demo/src/Content.js" afterPath="$PROJECT_DIR$/react-redux-demo/src/Content.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-redux-demo/src/Header.js" afterPath="$PROJECT_DIR$/react-redux-demo/src/Header.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-redux-demo/src/ThemeSwitch.js" afterPath="$PROJECT_DIR$/react-redux-demo/src/ThemeSwitch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-redux-demo/src/react-redux.js" afterPath="$PROJECT_DIR$/react-redux-demo/src/react-redux.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,21 +54,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThemeSwitch.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ThemeSwitch.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/react-redux-demo/src/ThemeSwitch.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
-              <folding />
+            <state relative-caret-position="487">
+              <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="react-redux.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="react-redux.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/react-redux-demo/src/react-redux.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            <state relative-caret-position="1075">
+              <caret line="43" column="1" lean-forward="false" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -113,10 +113,10 @@
         <option value="$PROJECT_DIR$/comment-app/src/CommentApp.js" />
         <option value="$PROJECT_DIR$/comment-app/src/Comment.js" />
         <option value="$PROJECT_DIR$/react-redux-demo/src/index.js" />
-        <option value="$PROJECT_DIR$/react-redux-demo/src/ThemeSwitch.js" />
         <option value="$PROJECT_DIR$/react-redux-demo/src/Content.js" />
         <option value="$PROJECT_DIR$/react-redux-demo/src/Header.js" />
         <option value="$PROJECT_DIR$/react-redux-demo/src/react-redux.js" />
+        <option value="$PROJECT_DIR$/react-redux-demo/src/ThemeSwitch.js" />
       </list>
     </option>
   </component>
@@ -640,12 +640,12 @@
       <workItem from="1490456097196" duration="4543000" />
       <workItem from="1490491810926" duration="6188000" />
       <workItem from="1499995845691" duration="5666000" />
-      <workItem from="1500445278499" duration="11438000" />
+      <workItem from="1500445278499" duration="12408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34878000" />
+    <option name="totallyTimeSpent" value="35848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
@@ -915,14 +915,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-redux-demo/src/ThemeSwitch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/react-redux-demo/src/Content.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
@@ -945,9 +937,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/react-redux-demo/src/react-redux.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        <state relative-caret-position="1075">
+          <caret line="43" column="1" lean-forward="false" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-redux-demo/src/ThemeSwitch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
