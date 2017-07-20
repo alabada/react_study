@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ed20f0c-0ebc-4870-8a72-fc70ce744718" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-redux-demo/src/ThemeSwitch.js" afterPath="$PROJECT_DIR$/react-redux-demo/src/ThemeSwitch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-redux-demo/src/index.js" afterPath="$PROJECT_DIR$/react-redux-demo/src/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-redux-demo/src/react-redux.js" afterPath="$PROJECT_DIR$/react-redux-demo/src/react-redux.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/react-redux-demo/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="25" column="56" lean-forward="true" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
+            <state relative-caret-position="77">
+              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="18" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -54,7 +54,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThemeSwitch.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ThemeSwitch.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/react-redux-demo/src/ThemeSwitch.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="487">
@@ -69,8 +69,8 @@
       <file leaf-file-name="react-redux.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/react-redux-demo/src/react-redux.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1075">
-              <caret line="43" column="1" lean-forward="false" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+            <state relative-caret-position="1012">
+              <caret line="66" column="1" lean-forward="false" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -90,6 +90,7 @@
       <find>localStorage</find>
       <find>push</find>
       <find>handleSubmitComment</find>
+      <find>themeReducer</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -112,11 +113,11 @@
         <option value="$PROJECT_DIR$/comment-app/src/CommentList.js" />
         <option value="$PROJECT_DIR$/comment-app/src/CommentApp.js" />
         <option value="$PROJECT_DIR$/comment-app/src/Comment.js" />
-        <option value="$PROJECT_DIR$/react-redux-demo/src/index.js" />
         <option value="$PROJECT_DIR$/react-redux-demo/src/Content.js" />
         <option value="$PROJECT_DIR$/react-redux-demo/src/Header.js" />
-        <option value="$PROJECT_DIR$/react-redux-demo/src/react-redux.js" />
         <option value="$PROJECT_DIR$/react-redux-demo/src/ThemeSwitch.js" />
+        <option value="$PROJECT_DIR$/react-redux-demo/src/react-redux.js" />
+        <option value="$PROJECT_DIR$/react-redux-demo/src/index.js" />
       </list>
     </option>
   </component>
@@ -640,12 +641,12 @@
       <workItem from="1490456097196" duration="4543000" />
       <workItem from="1490491810926" duration="6188000" />
       <workItem from="1499995845691" duration="5666000" />
-      <workItem from="1500445278499" duration="12408000" />
+      <workItem from="1500445278499" duration="12889000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35848000" />
+    <option name="totallyTimeSpent" value="36329000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
@@ -905,16 +906,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-redux-demo/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="25" column="56" lean-forward="true" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/react-redux-demo/src/Content.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
@@ -937,8 +928,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/react-redux-demo/src/react-redux.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1075">
-          <caret line="43" column="1" lean-forward="false" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+        <state relative-caret-position="1012">
+          <caret line="66" column="1" lean-forward="false" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -947,6 +938,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="487">
           <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-redux-demo/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="18" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>
